@@ -6,6 +6,7 @@ import { BackgroundGradient } from './ui/background-gradient';
 
 
 
+
 interface Course{
 
     id:number,
